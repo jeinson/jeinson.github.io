@@ -1,4 +1,4 @@
-# Welcome to my personal pagebreak
+# Welcome to my personal webpage
 
 If you found this, you're looking at my github page for my personal site. I made it using a Jekyll theme based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
 
