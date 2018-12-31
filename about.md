@@ -2,7 +2,7 @@
 title: "About Me"
 layout: page
 ---
-I am a bioinformatics PhD student in the [Department of Biomedical Informatics](http://www.dbmi.columbia.edu), and a member of the [Lappalainen Lab](http://www.tllab.org){:target="_blank_"} at the [New York Genome Center](http://www.nygenome.org){:target="_blank_"}. I currently live in New York City, but am from Massachusetts and lived there until after graduating from college.
+I am a bioinformatics PhD student in the [Department of Biomedical Informatics](http://www.dbmi.columbia.edu){:target="_blank1_"}, and a member of the [Lappalainen Lab](http://www.tllab.org){:target="_blank2_"} at the [New York Genome Center](http://www.nygenome.org){:target="_blank3_"}. I currently live in New York City, but am from Massachusetts and lived there until after graduating from college.
 
 
 Check out my CV [here]({{ site.baseurl }}/assets/CV_Fall_2018.pdf)
@@ -29,7 +29,7 @@ Check out my CV [here]({{ site.baseurl }}/assets/CV_Fall_2018.pdf)
 </div>
 
 ## Research
-Broadly, I am excited by the modern integration of computer science, statistics, and biology in the interdisciplenary field of bioinformatics. Bioinformatics is sometimes classified as a subfield of "Biomedical Informatics," which aims to interpret large data sets from all areas of healthcare, from population wide observation studies, to molecular interactions in disease systems. [More on this here](https://dbmi.columbia.edu). Personally, I am most interested in the tiny datapoints inside our genomes, which can now be studied with the power of next-generation sequencing. In the Lappalainen lab, we study how the biological mechanisms of how genetic variation produces the diversity we see in the population. I use statistical models and 🙌🙌 *machine learning* 🙌🙌 based approaches.
+Broadly, I am excited by the modern integration of computer science, statistics, and biology in the interdisciplenary field of bioinformatics. Bioinformatics is sometimes classified as a subfield of "Biomedical Informatics," which aims to interpret large data sets from all areas of healthcare, from population wide observation studies, to molecular interactions in disease systems. [More on this here](https://www.dbmi.columbia.edu/research/research-areas/){:target="_blank4_"}. Personally, I am most interested in the tiny datapoints inside our genomes, which can now be studied with the power of next-generation sequencing. In the Lappalainen lab, we study how the biological mechanisms of how genetic variation produces the diversity we see in the population. I use statistical models and 🙌🙌 *machine learning* 🙌🙌 based approaches.
 
 My scientific career started in college, when I worked in the [Sela Lab](https://selalab.org) studying microbial community ecology in food processing systems, primarily by analyzing 16S sequencing data.
 
