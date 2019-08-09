@@ -5,7 +5,7 @@ layout: page
 I am a bioinformatics PhD student in the [Department of Biomedical Informatics](http://www.dbmi.columbia.edu){:target="_blank1_"}, and a member of the [Lappalainen Lab](http://www.tllab.org){:target="_blank2_"} at the [New York Genome Center](http://www.nygenome.org){:target="_blank3_"}. I currently live in New York City, but am from Massachusetts and lived there until after graduating from college.
 
 
-Check out my CV [here]({{ site.baseurl }}/assets/CV_Fall_2018.pdf)
+Check out my CV [here]({{ site.baseurl }}/assets/CV_Summer_2019.pdf)
 
 ## Education
 <div class="row">
@@ -34,6 +34,8 @@ Broadly, I am excited by the modern integration of computer science, statistics,
 My scientific career started in college, when I worked in the [Sela Lab](https://selalab.org) studying microbial community ecology in food processing systems, primarily by analyzing 16S sequencing data.
 
 ### Publications
+Pejman Mohammadi, Stephane E. Castel, Beryl B. Cummings, **Jonah Einson**, Christina Sousa, Paul Hoffman, Sandra Donkervoort, Payam Mohassel, Reghan Foley, Heather E. Wheeler, Hae Kyung Im, Carsten G. Bonnemann, Daniel G. MacArthur, Tuuli Lappalainen, "Quantifying genetic regulatory variation in human populations improves transcriptome analysis in rare disease patients," *Science, Under Review*
+
 **Jonah E. Einson**, Asha Rani, Xiaomeng You, Clifton L. Randell, Allison A. Rodriguez, Tammy Barnaba, Mark K. Mammel, Michael L. Kotewicz, Christopher A. Elkins, David A. Sela, "A vegetable fermentation facility hosts distinct microbiomes reflecting the production environment," *Applied Environmental Microbiology*
 
 Xiaomeng You, **Jonah Einson**, Cynthia Lopez-Peña, Mingyue Song, Hang Xiao, Julian McClements, David Sela, "Food-grade cationic antimicrobial  ε-polylysine transiently alters the gut microbial community and predicted metagenome function in CD-1 mice," *npj Science of Food*
