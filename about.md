@@ -38,6 +38,6 @@ Ferraro, N. M., Strober, B. J., **Einson, J.**, Li, X., Aguet, F., Barbeira, A. 
 
 Mohammadi, P., Castel, S. E., Cummings, B. B., **Einson, J**., Sousa, C., Hoffman, P., … Lappalainen, T. (2019). Genetic regulatory variation in populations informs transcriptome analysis in rare disease. *Science*, 366(6463), 351–356. https://doi.org/10.1126/science.aay0256
 
-Einson, J. E., Rani, A., You, X., Rodriguez, A. A., Randell, C. L., Barnaba, T., … Sela, D. A. (2018). A Vegetable Fermentation Facility Hosts Distinct Microbiomes Reflecting the Production Environment. *Applied and Environmental Microbiology*, 84(22). https://doi.org/10.1128/AEM.01680-18
+**Einson, J. E.**, Rani, A., You, X., Rodriguez, A. A., Randell, C. L., Barnaba, T., … Sela, D. A. (2018). A Vegetable Fermentation Facility Hosts Distinct Microbiomes Reflecting the Production Environment. *Applied and Environmental Microbiology*, 84(22). https://doi.org/10.1128/AEM.01680-18
 
 You, X., **Einson, J. E.**, Lopez-Pena, C. L., Song, M., Xiao, H., McClements, D. J., & Sela, D. A. (2017). Food-grade cationic antimicrobial ε-polylysine transiently alters the gut microbial community and predicted metagenome function in CD-1 mice. *NPJ Science of Food*, 1. https://doi.org/10.1038/s41538-017-0006-0
