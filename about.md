@@ -2,12 +2,6 @@
 title: "About Me"
 layout: page
 ---
-<<<<<<< HEAD
-I am a bioinformatics PhD candidate in the [Department of Biomedical Informatics](http://www.dbmi.columbia.edu){:target="_blank1_"}, and a member of the [Lappalainen Lab](http://www.tllab.org){:target="_blank2_"} at the [New York Genome Center](http://www.nygenome.org){:target="_blank3_"}. I currently live in New York City, but am from Massachusetts and lived there until after graduating from college.
-||||||| merged common ancestors
-I am a bioinformatics PhD student in the [Department of Biomedical Informatics](http://www.dbmi.columbia.edu){:target="_blank1_"}, and a member of the [Lappalainen Lab](http://www.tllab.org){:target="_blank2_"} at the [New York Genome Center](http://www.nygenome.org){:target="_blank3_"}. I currently live in New York City, but am from Massachusetts and lived there until after graduating from college.
-=======
->>>>>>> f7821dbd6176c309925621415a5a0bb347091c57
 
 If you made it this far, thanks for visiting my personal page!
 
