@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Theis Defense Information
+title: Thesis Defense Information
 date: 2022-08-21 23:36
 ---
 
