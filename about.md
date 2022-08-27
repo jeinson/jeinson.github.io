@@ -37,33 +37,31 @@ My scientific career started in college, when I worked in the [Sela Lab](https:/
 
 ### Publications
 **Jonah E. Einson**, Dafni A. Glinos, Pejman Mohammadi, Stephane E. Castel, Tuuli Lappalainen, 2022. 
-“Genetic control of mRNA splicing as a potential mechanism for incomplete penetrance of rare 
-coding variants.” *In Progress, submission ASAP.* 
+“Genetic control of mRNA splicing as a potential mechanism for incomplete penetrance of rare coding variants.” *In Progress, submission ASAP.* 
  
 **Jonah. E. Einson**, Mariia Minaeva, Faiza Rafi, Tuuli Lappalainen, 2022. “The impact of genetically 
-controlled splicing on exon inclusion and protein structure.” In Progress, intended submission in 
-September 
+controlled splicing on exon inclusion and protein structure.” *In Progress, intended submission in September*
  
 Ferraro, Nicole M., Benjamin J. Strober, **Jonah E. Einson**, Nathan S. Abell, Francois Aguet, Alvaro N. 
 Barbeira, Margot Brandt, et al. 2020. “Transcriptomic Signatures across Human Tissues Identify 
-Functional Rare Genetic Variation.” *Science 369* (6509). https://doi.org/10.1126/science.aaz5900. 
+Functional Rare Genetic Variation.” *Science 369* (6509). <https://doi.org/10.1126/science.aaz5900>. 
  
 Mohammadi, Pejman, Stephane E. Castel, Beryl B. Cummings, **Jonah E. Einson**, Christina Sousa, Paul 
 Hoffman, Sandra Donkervoort, et al. 2019. “Genetic Regulatory Variation in Populations Informs 
 Transcriptome Analysis in Rare Disease.” *Science* 366 (6463): 351–56. 
-https://doi.org/10.1126/science.aay0256. 
+<https://doi.org/10.1126/science.aay0256>. 
  
 **Jonah E. Einson**, Asha Rani, Xiaomeng You, Allison A. Rodriguez, Clifton L. Randell, Tammy Barnaba, Mark 
 K. Mammel, Michael L. Kotewicz, Christopher A. Elkins, and David A. Sela. 2018. “A Vegetable 
 Fermentation Facility Hosts Distinct Microbiomes Reflecting the Production Environment.” *Applied 
-and Environmental Microbiology* 84 (22). https://doi.org/10.1128/AEM.01680-18. 
+and Environmental Microbiology* 84 (22). <https://doi.org/10.1128/AEM.01680-18>. 
  
 Sturgeon, Susan R., David A. Sela, Eva P. Browne, **Jonah E. Einson**, Asha Rani, Mohamed Halabi, Thomas 
 Kania, et al. 2021. “Prediagnostic White Blood Cell DNA Methylation and Risk of Breast Cancer in 
 the Prostate Lung, Colorectal, and Ovarian Cancer Screening Trial (PLCO) Cohort.” *Cancer 
-Epidemiology and Prevention Biomarkers*, January. https://doi.org/10.1158/1055-9965.EPI-20-1717. 
+Epidemiology and Prevention Biomarkers*, January. <https://doi.org/10.1158/1055-9965.EPI-20-1717>. 
  
 You, Xiaomeng, **Jonah E. Einson**, Cynthia Lyliam Lopez-Pena, Mingyue Song, Hang Xiao, David Julian 
 McClements, and David A. Sela. 2017. “Food-Grade Cationic Antimicrobial ε-Polylysine Transiently 
 Alters the Gut Microbial Community and Predicted Metagenome Function in CD-1 Mice.” *NPJ Science 
-of Food* 1 (December). https://doi.org/10.1038/s41538-017-0006-0. 
+of Food* 1 (December). <https://doi.org/10.1038/s41538-017-0006-0>. 
