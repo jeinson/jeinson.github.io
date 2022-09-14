@@ -5,7 +5,7 @@ layout: page
 
 If you made it this far, thanks for visiting my personal page!
 
-I am a bioinformatics PhD candidate in the [Department of Biomedical Informatics](http://www.dbmi.columbia.edu){:target="_blank1_"}, and a member of the [Lappalainen Lab](http://www.tllab.org){:target="_blank2_"} at the [New York Genome Center](http://www.nygenome.org){:target="_blank3_"}. I currently live in New York City.
+I am a recent PhD graduate from the [Department of Biomedical Informatics](http://www.dbmi.columbia.edu){:target="_blank1_"} at Columbia University Irving Medical Center, and a member of the [Lappalainen Lab](http://www.tllab.org){:target="_blank2_"} at the [New York Genome Center](http://www.nygenome.org){:target="_blank3_"}. I currently live in New York City.
 
 Check out my CV [here]({{ site.baseurl }}/assets/CV-Einson-Summer-22-nophone.pdf)
 

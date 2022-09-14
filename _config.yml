@@ -1,6 +1,6 @@
 # Site settings
 title: Jonah Einson
-description: 'PhD Candidate in Biomedical Informatics and Systems Biology at Columbia University'
+description: 'Ph.D. - Biomedical Informatics'
 url: 'http://jeinson.github.io'
 #baseurl: '/home'
 # google_analytics: 'UA-XXXXXX-X'
@@ -8,7 +8,7 @@ url: 'http://jeinson.github.io'
 
 author:
   name: 'Jonah Einson'
-  email: jee2142@cumc.columbia.edu
+  email: jonaheinson@gmail.com
   twitter_username: EinsonJ
   facebook_username: jonah.einson
   github_username:  jeinson
