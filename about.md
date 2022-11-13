@@ -40,7 +40,7 @@ My scientific career started in college, when I worked in the [Sela Lab](https:/
 “Genetic control of mRNA splicing as a potential mechanism for incomplete penetrance of rare coding variants.” *In Progress, submission ASAP.* 
  
 **Jonah. E. Einson**, Mariia Minaeva, Faiza Rafi, Tuuli Lappalainen, 2022. “The impact of genetically 
-controlled splicing on exon inclusion and protein structure.” *In Progress, intended submission in September*
+controlled splicing on exon inclusion and protein structure.” *In Progress, submission ASAP.*
  
 Ferraro, Nicole M., Benjamin J. Strober, **Jonah E. Einson**, Nathan S. Abell, Francois Aguet, Alvaro N. 
 Barbeira, Margot Brandt, et al. 2020. “Transcriptomic Signatures across Human Tissues Identify 
