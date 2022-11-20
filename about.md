@@ -7,7 +7,7 @@ If you made it this far, thanks for visiting my personal page!
 
 I am a recent PhD graduate from the [Department of Biomedical Informatics](http://www.dbmi.columbia.edu){:target="_blank1_"} at Columbia University Irving Medical Center, and a member of the [Lappalainen Lab](http://www.tllab.org){:target="_blank2_"} at the [New York Genome Center](http://www.nygenome.org){:target="_blank3_"}. I currently live in New York City.
 
-Check out my CV [here]({{ site.baseurl }}/assets/CV-Einson-Summer-22-nophone.pdf)
+Check out my resume [here]({{ site.baseurl }}/assets/Resume_Fall22.pdf)
 
 ## Education
 <div class="row">
@@ -52,7 +52,6 @@ Transcriptome Analysis in Rare Disease.” *Science* 366 (6463): 351–56.
 <https://doi.org/10.1126/science.aay0256>. 
  
 Cortes, Jose R., Ioan Filip, Robert Albero, Juan A. Patiño-Galindo, S. Aidan Quinn, Wen-Hsuan W. Lin, Anouchka P. Laurent, Bobby B. Shih, Jessie A. Brown, Anisha J. Cooke, Adam Mackey, **Jonah Einson**, Sakellarios Zairis, Alfredo Rivas-Delgado, Maria Antonella Laginestra, Stefano Pileri, Elias Campo,8 Govind Bhagat, Adolfo A. Ferrando, Raul Rabadan, and Teresa Palomero 2022. “Oncogenic Vav1-Myo1f Induces Therapeutically Targetable Macrophage-Rich Tumor Microenvironment in Peripheral T Cell Lymphoma.” Cell Reports 39 (3): 110695.<https://doi.org/10.1016/j.celrep.2022.110695>.
-
 
 **Jonah E. Einson**, Asha Rani, Xiaomeng You, Allison A. Rodriguez, Clifton L. Randell, Tammy Barnaba, Mark 
 K. Mammel, Michael L. Kotewicz, Christopher A. Elkins, and David A. Sela. 2018. “A Vegetable 
