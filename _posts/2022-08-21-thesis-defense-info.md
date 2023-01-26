@@ -2,6 +2,7 @@
 layout: post
 title: Thesis Defense Information
 date: 2022-08-21 23:36
+vimeoId: 793131639
 ---
 
 My time in grad school is finally wrapping up, and I'm doing a thesis defense! Check out the info here if you want to attend in person or virtually. 
@@ -29,4 +30,4 @@ Enter through the door under the “New York Genome Center” sign:
 
 If you missed the live presentation, you can check out a recording here!
 
-{% vimeo 793131639 %}
+{% include vimeoPlayer.html id=page.vimeoId %}
