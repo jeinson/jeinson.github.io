@@ -27,13 +27,6 @@ New York Genome Center Events Hall – 1st floor \\
 Enter through the door under the “New York Genome Center” sign:
  
 
-Virtual attendance also available:
+If you missed the live presentation, you can check out a recording here!
 
-[https://columbiacuimc.zoom.us/j/96100166387](https://columbiacuimc.zoom.us/j/96100166387) \\
-Meeting ID: 961 0016 6387 \\
-One tap mobile \\
-+16469313860,,96100166387# US \\
-+16465588656,,96100166387# US (New York) 
-
-
-A recording of the open session will be posted here after the defense date. 
+{% vimeo 793131639 %}
