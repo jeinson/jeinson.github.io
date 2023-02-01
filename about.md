@@ -37,7 +37,7 @@ My scientific career started in college, when I worked in the [Sela Lab](https:/
 
 ### Publications
 **Jonah E. Einson**, Dafni A. Glinos, Pejman Mohammadi, Stephane E. Castel, Tuuli Lappalainen, 2022. 
-“Genetic control of mRNA splicing as a potential mechanism for incomplete penetrance of rare coding variants.” *In Progress, submission ASAP.* 
+“Genetic control of mRNA splicing as a potential mechanism for incomplete penetrance of rare coding variants.” <https://www.biorxiv.org/content/10.1101/2023.01.31.526505v1>
  
 **Jonah. E. Einson**, Mariia Minaeva, Faiza Rafi, Tuuli Lappalainen, 2022. “The impact of genetically 
 controlled splicing on exon inclusion and protein structure.” *bioRxiv* <https://www.biorxiv.org/content/10.1101/2022.12.05.518915v1>
