@@ -5,9 +5,11 @@ layout: page
 
 If you made it this far, thanks for visiting my personal page!
 
-I am a recent PhD graduate from the [Department of Biomedical Informatics](http://www.dbmi.columbia.edu){:target="_blank1_"} at Columbia University Irving Medical Center, and a member of the [Lappalainen Lab](http://www.tllab.org){:target="_blank2_"} at the [New York Genome Center](http://www.nygenome.org){:target="_blank3_"}. I currently live in New York City.
+I am currently working in the role of Senior Scientist II, Genetic Data Sciences at [Genscience](https://genscience.com), where we are building a world-class human genetics platform for use in novel drug discovery programs.  
 
-Check out my resume [here]({{ site.baseurl }}/assets/Resume_Fall22.pdf)
+I completed my PhD in 2022, in the [Department of Biomedical Informatics](http://www.dbmi.columbia.edu){:target="_blank1_"} at Columbia University Irving Medical Center, where I was a member of the [Lappalainen Lab](http://www.tllab.org){:target="_blank2_"} at the [New York Genome Center](http://www.nygenome.org){:target="_blank3_"}. I am currently based in Brooklyn, NY. 
+
+Check out my resume [here]({{ site.baseurl }}/assets/Resume_Einson_Spring_25.pdf)
 
 ## Education
 <div class="row">
@@ -37,10 +39,10 @@ My scientific career started in college, when I worked in the [Sela Lab](https:/
 
 ### Publications
 **Jonah E. Einson**, Dafni A. Glinos, Pejman Mohammadi, Stephane E. Castel, Tuuli Lappalainen, 2022. 
-“Genetic control of mRNA splicing as a potential mechanism for incomplete penetrance of rare coding variants.” <https://www.biorxiv.org/content/10.1101/2023.01.31.526505v1>
+“Genetic control of mRNA splicing as a potential mechanism for incomplete penetrance of rare coding variants.” *Genetics* <https://academic.oup.com/genetics/article/224/4/iyad115/7205244>
  
 **Jonah. E. Einson**, Mariia Minaeva, Faiza Rafi, Tuuli Lappalainen, 2022. “The impact of genetically 
-controlled splicing on exon inclusion and protein structure.” *bioRxiv* <https://www.biorxiv.org/content/10.1101/2022.12.05.518915v1>
+controlled splicing on exon inclusion and protein structure.” *PLOS ONE* <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291960>
  
 Ferraro, Nicole M., Benjamin J. Strober, **Jonah E. Einson**, Nathan S. Abell, Francois Aguet, Alvaro N. 
 Barbeira, Margot Brandt, et al. 2020. “Transcriptomic Signatures across Human Tissues Identify 
